@@ -1,0 +1,6 @@
+#
+#  Operating System Characteristics - required for 'lsb_glibc' subset
+
+# LSB version to test for
+LSB_GLIBC_VER=5.0
+
