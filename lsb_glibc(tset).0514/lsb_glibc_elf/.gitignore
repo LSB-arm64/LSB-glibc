@@ -1,0 +1,12 @@
+src/*
+!src/elf_so.mk 
+!src/elf_tst.mk 
+!src/makefile
+Makeconfig
+Rules
+elf_mk_src
+.vscode/
+tstsrc/*
+Makerules
+test/*
+tst/*
